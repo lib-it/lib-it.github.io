@@ -1,0 +1,8 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background:blue;
+    color:white;
+    font-size:25pt;
+    font-family:sans-serif;
+}
